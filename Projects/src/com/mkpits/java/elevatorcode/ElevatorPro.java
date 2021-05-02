@@ -1,5 +1,5 @@
 //Mini project to create elevator and its working
-package com.mkpits.java.elevator;
+package com.mkpits.java.elevatorcode;
 import java.awt.Color;
 import java.awt.event.*;
 import javax.swing.*;
@@ -116,9 +116,7 @@ public class ElevatorPro extends JLabel {
                                     j1.setText("3 Floor");
                                 }  else if (count > 20000) {
                                     // j1.setText( "count " + count);
-                                    timer.stop();
-
-                                }
+                                    timer.stop();                               }
                                 break;
                             case 2:
                                 if (count == 10000) {
