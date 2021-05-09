@@ -1,5 +1,5 @@
 //Wap to check character is vowel or not
-package com.mkpits.java.multipalprograms;
+package com.mkpits.java.switchstatement;
 
 import java.util.Scanner;
 

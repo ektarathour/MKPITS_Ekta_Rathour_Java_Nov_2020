@@ -1,4 +1,4 @@
-package com.mkpits.java.finalmethodvariableclass;
+package com.mkpits.java.finalmethodvariableclasskeywordmethod;
 
 //WAP to final variable
 class FinalVariable

@@ -7,7 +7,7 @@ import javax.swing.Timer;
 
 
 
-public class ElevatorPro extends JLabel {
+public class ElevatorProgram extends JLabel {
     private static final long serialVersionUID = 1L;
 
     private static final int BLINKING_RATE = 1000; // in ms
@@ -16,7 +16,7 @@ public class ElevatorPro extends JLabel {
     static long count = 0;
     private boolean blinkingOff = false;
 
-    public ElevatorPro(String text) {
+    public ElevatorProgram(String text) {
         super(text);
         ImageIcon imgThisImg = new ImageIcon("f:\\javaprogram\\up arrow.png");
         super.setIcon(imgThisImg);
@@ -41,12 +41,12 @@ public class ElevatorPro extends JLabel {
     public static int tc;
 
     private class TimerListener implements ActionListener {
-        private ElevatorPro bl;
+        private ElevatorProgram bl;
         private Color bg;
         private Color fg;
         private boolean isForeground = true;
 
-        public TimerListener(ElevatorPro bl) {
+        public TimerListener(ElevatorProgram bl) {
             this.bl = bl;
             fg = bl.getForeground();
             bg = bl.getBackground();
@@ -166,7 +166,7 @@ public class ElevatorPro extends JLabel {
         jp212.setBounds(10, 100, 180, 80);
         jp212.setLayout(null);
 
-        final ElevatorPro bl = new ElevatorPro("UP");
+        final ElevatorProgram bl = new ElevatorProgram("UP");
 
         bl.setBounds(70, 120, 150, 100);
         bl.setBackground(Color.black);

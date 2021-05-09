@@ -1,6 +1,5 @@
-package com.mkpits.java.callbyvalue;
-
 //WAP to call by value that value will be change if we passing object as a value
+package com.mkpits.java.callbyvalue;
 class OperationCallByValueChange
 {
 int data=50;

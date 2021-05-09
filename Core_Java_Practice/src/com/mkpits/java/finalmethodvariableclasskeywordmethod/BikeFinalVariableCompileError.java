@@ -1,5 +1,5 @@
 //WAP to compile time error in final variable
-package com.mkpits.java.finalmethodvariableclass;
+package com.mkpits.java.finalmethodvariableclasskeywordmethod;
 //
 class BikeFinalVariableCompileError
 {

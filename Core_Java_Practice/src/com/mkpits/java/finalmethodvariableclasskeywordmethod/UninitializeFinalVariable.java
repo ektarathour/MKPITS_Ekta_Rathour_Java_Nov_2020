@@ -1,4 +1,4 @@
-package com.mkpits.java.finalmethodvariableclass;
+package com.mkpits.java.finalmethodvariableclasskeywordmethod;
 
 //WAP to uninitialized static final variable
 class UninitializeFinalVariable

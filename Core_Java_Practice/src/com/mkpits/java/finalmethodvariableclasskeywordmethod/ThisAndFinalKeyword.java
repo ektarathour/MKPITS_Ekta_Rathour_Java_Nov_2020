@@ -1,4 +1,4 @@
-package com.mkpits.java.finalmethodvariableclass;
+package com.mkpits.java.finalmethodvariableclasskeywordmethod;
 
 //WAP to this keyword and final keyword
  final class Employee

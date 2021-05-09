@@ -1,4 +1,4 @@
-//WAP to print hello and your name is seprate line
+//WAP to print hello and your name is separate line
 package com.mkpits.java.multipalprograms;
 class PrintName
 {

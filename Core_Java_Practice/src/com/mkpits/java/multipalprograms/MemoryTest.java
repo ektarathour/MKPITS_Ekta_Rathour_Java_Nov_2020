@@ -1,5 +1,3 @@
-
-
 //WAP to Runtime freeMemory() and totaMemory() method
 package com.mkpits.java.multipalprograms;
 public class MemoryTest{
