@@ -1,3 +1,4 @@
+//Program to Print number using switch statement
 package com.mkpits.java.switchstatement;
 
 public class ExOfPrintNoUsingSwitchStatement {

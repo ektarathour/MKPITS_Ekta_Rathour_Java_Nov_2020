@@ -1,4 +1,4 @@
-//simple example of encapsulation that has only one field with its setter and getter meth
+//simple example of encapsulation that has only one field with its setter and getter method
 package com.mkpits.java.encapsulationPrograms;
 
 public class ExOfStudentClassWithGetAndSetMethod {

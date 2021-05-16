@@ -1,4 +1,4 @@
-//WAP to  aggregation
+//In this example, we have created the reference of Operation class in the Circle class
 
 package com.mkpits.java.aggregation;
 

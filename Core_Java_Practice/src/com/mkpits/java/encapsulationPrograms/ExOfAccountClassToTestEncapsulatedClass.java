@@ -1,3 +1,4 @@
+//java class to test the encapsulated class Account.
 package com.mkpits.java.encapsulationPrograms;
 
 public class ExOfAccountClassToTestEncapsulatedClass {

@@ -1,4 +1,3 @@
-
 //WAP to localinner class with local variable
 package com.mkpits.java.localclass;
 

@@ -1048,3 +1048,472 @@ Write a Program convert decimal to hex in java using custom logic.
 
 #### Program 352)ExOfStringConcatenationOperator.java
 Write a Program of string concatenation operator 
+
+#### Program 353)ExOfEnumInSwitchStatement.java
+Write a Program to demonstrate the use of Enum switch statement 
+
+#### Program 354)ExOfNestedSwitchStatement.java
+Write a Program to demonstrate the use of Java Nested Switch
+
+#### Program 355)ExOfPrintMonthNameUsingGivenNo.java
+Write a Program to demonstrate the example of Switch statement where we are printing month name for the given number
+
+#### Program 356)ExOfPrintNoUsingSwitchStatement.java
+Write a Program to Print number using switch statement
+
+#### Program 357)ExOfSwitchStatementisFallThrough.java
+Write a program of Switch where we are omitting the break statement
+
+#### Program 358)ExOfSwitchStatementWithString.java
+Write a program to demonstrate the use of Java Switch statement with String
+
+#### Program 359)ExOfWrapperInSwitchStatement.java
+Write a program of demonstrate the use of Wrapper class in switch statement
+
+#### Program 360)ExOfCalculationClassAnonymousObject.java
+Write a program ava Program to demonstrate the working of a banking-system  
+where we deposit and withdraw amount from our account.  
+Creating an Account class which has deposit() and withdraw() methods  
+
+#### Program 361)ExOfCreatingRactangleClassObjectByOneTypeOnly.java
+Write a Program to illustrate the use of Rectangle class which  has length and width data members
+  
+#### Program 362)ExOfDefineMainMethodInAnotherClass.java
+Write a Program to demonstrate having the main method in another class  
+
+#### Program 363)ExOfHowToDefineClassUsingStudentClass.java
+Write a program Java Program to illustrate how to define a class and fields  Defining a Student class.  
+
+#### Program 364)ExOfInitializeObjectThroughConstructor.java
+Write a program where we are maintaining records of employees.
+
+#### Program 365)ExOfInitializeObjectThroughMethod.java
+Write a program example creating the two objects of Student class and initializing the value to these 
+objects by invoking the insertRecord method
+
+#### Program 366)ExOfInitializeObjectThroughReferenceVariable.java
+Write a program create multiple objects and store information in it through reference variable.
+
+#### Program 367)RactangleMainClassThatMaintainRecordRactangleClass.java
+Write a program another example that maintains the records of Rectangle class.
+
+#### Program 368)ExOfAccountClassToTestEncapsulatedClass.java
+Write a program to class to test the encapsulated class Account.  
+
+#### Program 369) ExOfAccountDatawithSetAndGetMethod.java
+Write a program of encapsulation that has only four fields with its setter and getter methods.
+
+#### Program 370)ExOfCalculateSimpleInterest.java
+Write a program of calculate simple interest
+
+#### Program 371)ExOfJavaClassWhichOnlyGetterMethod.java
+Write a program of class which has only getter methods
+
+#### Program 372)ExOfJavaClassWhichOnlySetterMethod.java
+Write a program of which has only setter methods
+
+#### Program 373)ExOfStudentClassToTestEncapsulatedClas.java
+Write a program of class to test the encapsulated class.
+
+#### Program 374)ExOfStudentClassWithGetAndSetMethod.java
+Write a program of encapsulation that has only one field with its setter and getter meth
+
+#### Program 375)AnotherExaOfInstanceOfOperatorAnimalClass.java
+Write a program Another example of java instanceof operator
+
+#### Program 376)DowncastingWithhoutInstanceOfOperator.java
+Write a program Downcasting without the use of java instanceof
+
+#### Program 377)DowncastingWithInstanceOfOperator.java
+Write a program example, where downcasting is possible by instanceof operator.
+
+#### Program 378)InstanceOfOpWithNullvalue.java
+Write a program instanceof in java with a variable that have null value
+
+#### Program 379)RealUseOfInstanceOfOperator.java
+Write a program Understanding Real use of instanceof in java
+
+### Program 380) ExOfInstanceInitializerInvokeAfterSuper .java
+Write a program of instance initializer block that is invoked after super()
+
+#### Program 381)AnotherExaOfInstanceOfOperatorAnimalClass.java1
+Write a program Another example of java instanceof operator
+
+#### Program 382)DowncastingWithhoutInstanceOfOperator.java
+Write a program DowncastingWithhoutInstanceOfOperator
+
+#### Program 383)DowncastingWithInstanceOfOperator.java
+Write a program example, where downcasting is possible by instanceof operator
+
+#### Program 384)InstanceOfOpWithNullvalue.java
+Write a program instanceof in java with a variable that have null value
+
+#### Program 385)ExOfCalculationClassAnonymousObject.java
+Write a program Program of an anonymous object in Java with calculation class
+
+#### Program 386)ExOfCreatingAccClassByDepositAndWithdrawlMethod.java
+Write a program Java Program to demonstrate the working of a banking-system
+where we deposit and withdraw amount from our account.
+Creating an Account class which has deposit() and withdraw() methods
+
+### Program 387)ExOfCreatingRactangleClassObjectByOneTypeOnly.java
+Write a program Java Program to illustrate the use of Rectangle class which as length and width data members
+
+### Program 388)ExOfDefineMainMethodInAnotherClass.java
+Write a program ava Program to demonstrate having the main method in nother class
+Creating Student class.
+
+### Program 389)ExOfInitializeObjectThroughConstructor.java
+Write a program where we are maintaining records of employees.
+
+### Program 390)ExOfInitializeObjectThroughMethod.java
+Write a program example creating the two objects of Student class and initializing the value to these
+objects by invoking the insertRecord method
+
+### Program 391)ExOfInitializeObjectThroughReferenceVariable.java
+Write a program of create multiple objects and store information in it through reference variable
+
+### Program 392)RactangleMainClassThatMaintainRecordRactangleClass.java
+Write a program another example that maintains the records of Rectangle class.
+
+### Program 393) ExOfForEachLoop.java
+Write a program For-each loop example which prints the elements of the arrayJava
+
+### Program 394) ExOfInfiniteForLoop.java
+Write a program Java program to demonstrate the use of infinite for loop which prints an statement
+
+### Program 395) ExOfLabeledForLoop .java
+Write a program A Java program to demonstrate the use of labeled for loop
+
+### Program 396) ExOfNestedForLoop.java
+Write a program Java Nested For Loop
+
+### Program 397) ExOfPrintTableOneUsingForLoop.java
+Write a program Java Program to demonstrate the example of for loop which prints table of 1
+
+### Program 398) EXOfRightTriangleDownWordPyramid.java
+Write a program Program of right triangle downword pyrramid
+
+### Program 399) ExOfRightTrianglePyramid.java
+Write a program right triangle pyramid
+
+### Program 400)ExOfInfiniteForLoop.java
+Write a program to demonstrate the use of infinite for loop which prints an statement
+
+### Program 401) ExOfInfiniteDWLoop.java
+Write a program of Infinitive do-while Loop
+
+### Program 402) ExOfAnotherUseOfNestedIfStatement.java
+Write a program to demonstrate the use of Nested If Statement.
+
+### Program 403) ExoFCheckPoNaZeUsingIfElseIf.java
+Write a program Program to check POSITIVE, NEGATIVE or ZERO:
+
+### Program 404) ExOfIfElseIfLadder.java
+Write a program Java Program to demonstrate the use of If else-if ladder.
+It is a program of grading system for fail, D grade, C grade, B grade, A grade and A+.
+
+### Program 405) ExOfNestedIfStatement.java
+Write a program ava Program to demonstrate the use of Nested If Statement
+
+### Program 406) IfElseUsingTernaryOperator.java
+Write a program of use of if else using Ternary Operator
+
+### Program 407) SimpleUseOfIfElseStatement.java
+Write a program A Java Program to demonstrate the use of if-else statement.
+It is a program of odd and even number.
+
+### Program 408) SimpleUseOfIfStatement.java
+Write a program ava Program to demonstrate the use of if statement.
+
+### Program 409) ExOfEmployeeClassUsingInheritance.java
+Write a program of inheritance in which Programmer is the subclass and Employee is the superclass
+
+### Program 410) ExOfHierarchicalInheritanceUsingAnimalClass.java
+Write a program A Program of hierarchical inheritance using animal class
+
+### Program 411) ExOfMultilevelInheritanceUsingAnimalClass.java
+Write a program Multilevel Inheritance Example
+
+### Program 412) ExOfSingleInheritanceUsingSingleInheritance.java
+Write a program Single Inheritance Example
+
+### Program 413) ExOfMethodOverloadingChangingDataType.java
+Write a program Method Overloading: changing data type of arguments
+
+### Program 414) ExOfMethodOverloadingChangingNoOfArgument.java
+Write a program Method Overloading: changing no. of arguments
+
+### Program 415)ExOfOverloadJavaMainMethod.java
+Write a program of overloading java main method
+
+### Program 416)ExOfMethodOverridingWithVhicleClass.java
+Write a program  to illustrate the use of Java Method Overriding Creating a parent class.
+
+### Program 417)ExOfMethodOverloadingWithTypePromotion.java
+Write a program of Method Overloading with TypePromotion 
+
+### Program 418)ExOfFinalMethodWithInheritance.java
+Write a program of final method is inherited
+
+### Program 419)AnotherExOfMultiCatchBlock.java
+Write a program of multi catch block
+
+### Program 420)ExOfBlockAtATimeOnlyOneExceptionAccure.java
+Write a program exception occurs and its corresponding catch block is invoked.
+
+### Program 421)ExOfExceptionHandlingUsingTryCatchBlock.java
+Write a program example of Java Exception Handling where we using a try-catch statement to handle the exception
+
+### Program 422)ExOfMultiCatchBlockInExceptionHandling.java
+Write a program a simple example of java multi-catch block
+
+### Program 423)ExOfMultiCatchBlockNullPointerException.java
+Write a program In this example, we generate NullPointerException, but didn't provide the
+corresponding exception type. In such case,
+the catch block containing the parent exception class Exception will invoked.
+
+### Program 424)ExOfMethodOverloadingChangingDataType.java
+Write a program Method Overloading: changing data type of arguments
+
+### Program 425)ExOfMethodOverloadingChangingNoOfArgument.java
+Write a program Method Overloading: changing no. of arguments
+
+### Program 426)ExOfMethodOverloadingWithTypePromotion.java
+Write a program Example of Method Overloading with TypePromotion
+
+### Program 427)ExOfMethodOverridingWithVhicleClass.java
+Write a program  illustrate the use of Java Method Overriding Creating a parent class.
+
+### Program 428)ExOfOverloadJavaMainMethod.java
+Write a program Example of overloading java main method
+
+### Program 429) ExOfPolymorphismCreatingObjectAndCallMethod.java
+Write a program of polymorphism creating object and call method
+
+### Program 430) ExOfPolymorphismVariable.java
+Write a program A variable is called polymorphic if it refers  to different values under different
+conditions Here Simple example of polymorphism variable
+
+### Program 431) ExOfPolySameMethodDiffParameter.java
+Write a program method overloading in Java.Here, the same method will perform different operations
+based on the parameter.
+
+### Program 432) ExOfPolyUsingMethodOverloadingLanguageClass .java
+Write a program of polymorphism method overloading using language class
+
+### Program 433) ExOfPolyUsingPolyUsingPolygonClass.java
+Write a program of polymorphism
+
+### Program 434) ExOfPolyWithAnimalClass .java
+Write a program of polymorphism with animal class using animalSound method
+
+### Program 435) AccessOuterClassFromInnerClass .java
+Write a program A java Program Access Outer Class From Inner Class
+
+### Program 436) ExOfAccessInnerClass .java
+Write a program of access the inner class, create an object of the outer class, and then create an object of the inner class
+
+### Program 437) CallDefaultConsFromParameterizedInThisKey  .java
+Write a program Calling default constructor from parameterized constructor:
+
+### Program 438) CallParameterizedConsFromDefaultConsInThisKey .java
+Write a program Calling parameterized constructor from default constructor:
+
+### Program 439) ExOfUnderstandingProblemWithoutThisKey .java
+Write a program Understanding the problem without this keyword
+
+### Program 440) RealUseOfThisConstructorCall .java
+Write a program RealUseOfThisConstructorCall
+
+### Program 441) ToInvokeCurrentClassMethodInThisKey .java
+Write a program this: to invoke current class method
+
+### Program 442) UnderstandUseOfThisKey.java
+Write a program In the above example, parameters (formal arguments) and instance variables
+are same. So, we are using this keyword to distinguish local variable and instance variable.
+
+### Program 443) ResolveExceptionInTryCatchBlock .java
+Write a program an example to resolve the exception in a catch block.
+
+### Program 444) TryCatchHandleCheckedException .java
+Write a program an example to handle checked exception.
+
+### Program 445) TryCatchUncheckException .java
+Write a program an example to handle another unchecked exception.
+
+### Program 446) AnonymousInnerClass .java
+Write a program Java anonymous inner class example using class
+
+### Program 447) AnonymousInnerClassUsingInterface .java
+Write a program Java anonymous inner class example using interface
+
+### Program 448) MemberInnerClass .java
+Write a program Java Member inner class example
+
+### Program 449) StaticNestedClassWithInstance .java
+Write a program Java static nested class example with instance method
+
+### Program 450) ExOfCurrentThreadMethodUsingJoin .java
+Write a program Example of currentThread() method
+
+### Program 451) ExOfImplementThreadObjectNotTreatAsThread .java
+Write a program extending the Thread class,your class object would not be treated as a thread object
+
+### Program 452) SleepMethodInThread .java
+Write a program of sleep method in java
+
+### Program 453) ExOfBreakStatementInDWLoop .java
+Write a program Java Program to demonstrate the use of break statement inside the Java do-while loop.
+
+### Program 454) ExOfBreakStatementInWhileLoop .java
+Write a program Java Program to demonstrate the use of break statement inside the while loop.
+
+### Program 455) ExOfBreakStatementWithInnerLoop .java
+Write a program Java Program to illustrate the use of break statement inside an inner loop
+
+### Program 456) ExOfBreakStatementWithLabeledForLoop .java
+Write a program ava Program to illustrate the use of continue statement with label inside an inner loop to break outer loop
+
+### Program 457) ExOfBreakStatementWithLoop .java
+Write a program Java Program to demonstrate the use of break statement inside the for loop.
+
+### Program 458) ExOfContinueStatementInDWLoop .java
+Write a program Java Program to demonstrate the use of continue statement inside the Java do-while loop.
+
+### Program 459) ExOfContinueStatementinsideForLoop .java
+Write a program Java Program to demonstrate the use of continue statement inside the for loop.
+
+### Program 460) ExOfContinueStatementInWhileLoop .java
+Write a program Java Program to demonstrate the use of continue statement inside the while loop.
+
+### Program 461) ExOfContinueStatementWithInnerLoop .java
+Write a program Java Continue Statement with Inner Loop
+
+### Program 462) ExOfContinueStatementWithLabeledForLoop .java
+Write a program ExOfContinueStatementWithLabeledForLoop
+
+### Program 463)ExOfInstanceInitializerBlock.java
+Write a program the simple example of instance initializer block that performs initialization.
+
+### Program 464)ExOfGenerateRandomNOBetween200to400usingRandomClass.java
+Write a program create a program that generates random numbers between 200 to 400..
+
+### Program 465)ExOfGenerateRandomNoUsingRandomClass.java
+Write a program create a program that generates random numbers using the Random class.
+
+### Program 466)ExOfGenerateRandomNoUsingRandomMethod.java
+Write a program create a program that generates random numbers using the random() method.
+
+### Program 467)ExOfGenerateRandomNOUsingThreadLocalRandomClass.java
+Write a program create a program that generates random numbers using the ThreadLocalRandom class.
+
+### Program 468)ExOfGeneratesStreamOfIntegersUsingIntsMethod.java
+Write a program create a program that generates a stream of integers using the ints() method of the Random class.
+
+### Program 469)ExOfDisplayTextFiveTimesUsingForLoop.java
+Write a program to print a text 5 times
+
+### Program 470)ExOfSomeOf1TO1000NaturalNo.java
+Write a program to find the sum of natural numbers from 1 to 1000
+
+### Program 471)ExOfPrivateAccessModifier.java
+Write a program access level of a private modifier is only within the class. It cannot be accessed from
+outside the class.
+
+### Program 472)ExOfAccessArrayElement.java
+Write a program Example of Access Array Elements
+
+### Program 473)ExOfMultiDArrayUsingForEachLoop.java
+Write a Program of use the for...each loop to access elements of the multidimensional array
+
+### Program 474)ExOfPrintTwoDArrayUsingForLoop.java
+Write a program Program of Print all elements of 2d array Using Loop
+
+### Program 475)ExOfSumAndAverageOfArrayElement.java
+Write a Program of Compute Sum and Average of Array Elements
+
+### Program 476)ExOfTwoDimensionalArray.java
+Write a program of two dimensional Array
+
+### Program 477) ExOfCopyingArraysUsingAssignmentOperator.java
+Write a Program of Copying Arrays Using Assignment Operator
+
+### Program 478)ExOfUsingLoopingConstructToCopyArray.java
+Write a  Program of Using Looping Construct to Copy Arrays
+
+### Program 479)ExOfCopyArrayUsingArraysCopymethod .java
+Write a Program to Copying Arrays Using arraycopy() methodr
+
+### Program 480)ExOfDisplayLowerCaseAlphabetUsingForLoop.java
+Write a Programs of Display lowercase alphabet using for loop
+
+### Program 481)ExOfDisplayUpperCasedAlphabetUsingForLoop.java
+Write a Program of Display uppercase alphabet using for loop 
+
+### Program 482)ExOfCopyArrayUsingCopyOfRangeMethod.java
+Write a Program of To use toString() and copyOfRange() method
+
+### Program 483)ExOfCopying2DArraysUsingForLoop.java
+Write a Program of copy 2d array using for loop
+
+### Program 484)ExOfPowerOfNegativeNumberUsingPowMethod.java
+Write a program of Compute Power of Negative Number
+
+### Program 485)ExOfCalculatePowerOfNumberUsingWhileLoop.java
+Write a A Program Calculate power of a number using a while loop
+
+### Program 486)ExOfCalculatePowerOfNumberUsingpowFunction.java
+Write a Program of Calculate the power of a number using pow() function
+
+### Program 487)ExOfCalculatePowerOfNumberUsingForLoop.java
+Write a program of Calculate the power of a number using pow() function
+
+### Program 488)ExOfReadPasswordUsingReadPasswordMethod.java
+Write a program of Java Console Example to read password
+
+### Program 489)ExOfReadTextFromConsoleUsingReadLineMethod.java
+Write a program to read a single line of text from the console using readline method
+
+### Program 490)ExOfPrintIntegerAndStringValue.java
+Write a program we are simply printing integer and string value.
+
+### Program 491)ExOfWritingDataOnConsole.java
+Write a program of writing the data on a console and in a text file testout.txt using Java PrintWriter class.
+
+### Program 492)ExOfCheckNoPrimeNoOrNotUsingForLoop.java
+Write a program to Check Prime Number using a for loop 
+
+### Program 493)ExOfCheckNoPrimeNoOrNotUsingWhileLoop.java
+Write a program to Check Prime Number using a while loop
+
+### Program 494)ExOfCallingDefaultConstructor.java
+Write a program of default constructor
+
+### Program 495)ExOfBinaryNumberRactanglePattern .java
+Write a program of Binary Number Rectangle Pattern
+
+### Program 496)ExOfSquareNumberPattern .java
+Write a program of square Number Pattern program 
+
+### Program 497)ExOfInheritanceWithSuperKeyword .java
+Write a program super Keyword in Inheritance
+
+### Program 498) ExOfProtectedMembersInInheritanc.java
+Write a program of protected Members in Inheritance
+
+### Program 499) ExOfCpuInnerClass.java
+Write a program of Inner class
+
+### Program 500) ExOfAccessOuterClassWithinInnerClassCar.java
+Write a program of Accessing Members of Outer Class within Inner Class
+
+
+
+
+
+
+
+
+
+

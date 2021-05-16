@@ -1,3 +1,4 @@
+//Java class which has only setter methods
 package com.mkpits.java.encapsulationPrograms;
 
 public class ExOfJavaClassWhichOnlySetterMethod {

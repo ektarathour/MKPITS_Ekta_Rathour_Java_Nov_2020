@@ -1,5 +1,4 @@
-
-//exaple of java static nested class witth static method
+//example of java static nested class witth static method
 package com.mkpits.java.localclass;
 
 class TestOuterStaticNestedClass
