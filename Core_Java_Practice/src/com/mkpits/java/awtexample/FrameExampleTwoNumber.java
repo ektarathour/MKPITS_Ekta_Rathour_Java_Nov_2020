@@ -36,6 +36,7 @@ public class FrameExampleTwoNumber extends Frame {
             }
         });
         add(b1);
+
         setSize(500, 500);
         setTitle("Calculator");
         setLayout(null);

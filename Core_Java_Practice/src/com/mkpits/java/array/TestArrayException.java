@@ -1,7 +1,7 @@
 //WAP to ArrayIndexOfBoundsException in a java
 package com.mkpits.java.array;
 
-public class TestArrayException<i> {
+public class TestArrayException {
     public static void main(String args[]) {
 
         int arr[] = {50, 60, 70, 80};

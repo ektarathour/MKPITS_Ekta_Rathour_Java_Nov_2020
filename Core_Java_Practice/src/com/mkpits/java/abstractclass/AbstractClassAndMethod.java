@@ -8,13 +8,13 @@ abstract class BikeEx {
     }
 }
 
-class AbstarctClassAndMethod extends BikeEx {
+class AbstractClassAndMethod extends BikeEx {
     void run() {
         System.out.println("running safely");
     }
 
     public static void main(String[] args) {
-        AbstarctClassAndMethod obj = new AbstarctClassAndMethod();
+        AbstractClassAndMethod obj = new AbstractClassAndMethod();
         obj.run();
     }
 }

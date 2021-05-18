@@ -5,9 +5,9 @@ abstract class Shape {
     abstract void draw();
 }
 
-class Ractangle extends Shape {
+class Rectangle extends Shape {
     void draw() {
-        System.out.println("drawing ractangle");
+        System.out.println("drawing rectangle");
     }
 }
 

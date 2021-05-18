@@ -5,7 +5,7 @@ import java.awt.*;
 
 import static com.sun.glass.ui.Cursor.setVisible;
 
-public class FrameExampleAssociation {
+ class FrameExampleAssociation {
         FrameExampleAssociation(){
             Frame f=new Frame();
             Button b = new Button("click me");

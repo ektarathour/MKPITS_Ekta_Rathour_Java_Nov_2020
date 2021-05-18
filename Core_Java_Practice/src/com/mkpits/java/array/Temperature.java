@@ -10,7 +10,7 @@ class Temperature {
 
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("enter days temprature");
+        System.out.println("enter days temperature");
         temp = sc.nextInt();
         if (temp < 0) {
             System.out.println("freezing weather");
@@ -23,7 +23,7 @@ class Temperature {
         } else if (temp < 40) {
             System.out.println("hot weather");
         } else {
-            System.out.println("very hot temprature");
+            System.out.println("very hot temperature");
         }
     }
 }

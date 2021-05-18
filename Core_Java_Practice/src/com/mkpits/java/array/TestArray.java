@@ -1,7 +1,7 @@
 //WAP to  how to declare,instantiate initialize and traversing the array
 package com.mkpits.java.array;
 
-class Testarray {
+class TestArray {
     public static void main(String[] args) {
         int a[] = new int[5];//declaration and instantiation
         a[0] = 10;

@@ -2,7 +2,7 @@
 
 package com.mkpits.java.array;
 
-class TestarrayForLoop {
+class TestArrayForLoop {
     public static void main(String[] args) {
         int arr[] = {33, 3, 4, 5};
 //printing array using for each loop

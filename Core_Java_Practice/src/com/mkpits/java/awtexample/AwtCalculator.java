@@ -62,7 +62,7 @@ public class AwtCalculator extends Frame{
             add(b17);
             b18.setBounds(90, 260, 80, 50);
             add(b18);
-            setSize(260, 300);
+            setSize(260, 320);
             setTitle("calculator");
             setLayout(null);
             setVisible(true);

@@ -5,7 +5,7 @@ abstract class Person {
     abstract void eat();
 }
 
-class AnonymousInnerAbtract {
+class AnonymousInnerAbstract {
     public static void main(String[] args) {
         Person p = new Person() {
             void eat() {

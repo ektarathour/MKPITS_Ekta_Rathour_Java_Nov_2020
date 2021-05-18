@@ -1,8 +1,8 @@
-//WAP to passsing array to a method  in java
+//WAP to passing array to a method  in java
 
 package com.mkpits.java.array;
 
-class TestarrayPassingToMethod {
+class TestArrayPassingToMethod {
     static void min(int arr[]) {
         int min = arr[0];
         for (int i = 1; i < arr.length; i++)

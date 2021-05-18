@@ -1,4 +1,3 @@
-//Write a program to accept redius of circle then disply the area of circle and circumference 
 #include<stdio.h>
 #include<conio.h>
 void main()

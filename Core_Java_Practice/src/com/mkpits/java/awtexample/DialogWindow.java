@@ -3,7 +3,7 @@ package com.mkpits.java.awtexample;
 
 import java.awt.*;
 
-public class DialigWindow {
+public class DialogWindow {
     public static void main(String arg[])
     {
         Frame f=new Frame("my frame");

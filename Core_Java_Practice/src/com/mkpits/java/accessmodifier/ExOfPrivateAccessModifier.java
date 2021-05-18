@@ -20,8 +20,6 @@ class test
     {
 
         ExOfPrivateAccessModifier ex=new ExOfPrivateAccessModifier();
-//ex.a=40;
-//ex.msg();
         ex.showmsg();
     }
 }

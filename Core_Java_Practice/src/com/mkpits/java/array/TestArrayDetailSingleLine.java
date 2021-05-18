@@ -1,7 +1,7 @@
 //WAP to illustrate the use of declaration ,instantiation and initialization array in single line
 package com.mkpits.java.array;
 
-class TestarrayDetailSingleLine {
+class TestArrayDetailSingleLine {
     public static void main(String[] args) {
         int a[] = {33, 3, 4, 5};//declaration,instantiation and initialization
 //printing array

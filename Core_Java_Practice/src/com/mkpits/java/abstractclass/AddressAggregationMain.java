@@ -22,7 +22,7 @@ public class AddressAggregationMain {
         this.address = address;
     }
 
-    void disply() {
+    void display() {
         System.out.println(id + "" + name);
         System.out.println(address.city + "" + address.state + "" + address.country);
     }
@@ -33,7 +33,7 @@ public class AddressAggregationMain {
 
         AddressAggregationMain e1 = new AddressAggregationMain(111, "Ekta", address1);
         AddressAggregationMain e2 = new AddressAggregationMain(112, "rani", address2);
-        e1.disply();
-        e2.disply();
+        e1.display();
+        e2.display();
     }
 }
