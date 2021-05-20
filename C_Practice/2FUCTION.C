@@ -1,3 +1,4 @@
+//WAP to create a function name greeting and dusply good morning
 void greeting()
 {
 printf("good morning") ;

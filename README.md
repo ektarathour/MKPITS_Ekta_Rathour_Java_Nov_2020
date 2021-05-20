@@ -1562,6 +1562,8 @@ Write a program of Inner class
 ### Program 500) ExOfAccessOuterClassWithinInnerClassCar.java
 Write a program of Accessing Members of Outer Class within Inner Class
 
+### Program 501) ExOfGarbageCollectorUsingTryCatch.java
+Write a program of garbage collection using try catch
 
 
 

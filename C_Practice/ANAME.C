@@ -1,4 +1,4 @@
-//a program to create an ch aracter array of  element to store your name 
+//WAP to create an character array of  element to store your name 
 #include<stdio.h>
 #include<conio.h>
 void main()

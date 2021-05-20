@@ -1,4 +1,4 @@
-//program to total,and percent using array
+//program calculate to total,and percent using array
 #include<stdio.h>
 #include<conio.h>
 void main()

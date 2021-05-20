@@ -1,5 +1,4 @@
-// add number in array
-// add array 
+//WAP to add array element 
 #include<stdio.h>
 #include<conio.h>
 void main()

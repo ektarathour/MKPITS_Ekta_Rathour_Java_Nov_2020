@@ -1,0 +1,17 @@
+//WAP to an integer array of 3 element store some value in it and then display the value of array element 
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int num[3];
+clrscr();
+//storing value a array element
+num[0]=11;
+num[1]=22;
+num[2]=33;
+//displying value from array element
+printf("\n num[0]=%d",num[0]);
+ printf("\n num[1]=%d",num[1]);
+printf("\n num[2]=%d",num[2]);
+getch();
+}

@@ -1,4 +1,4 @@
-//store character from the user
+//WAP to  store character from the user in to the array
 #include<stdio.h>
 #include<conio.h>
 void main()

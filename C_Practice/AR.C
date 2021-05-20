@@ -1,4 +1,5 @@
-//a program to create an array to accept store salary of 5 employee store and total salary #include<stdio.h>
+//WAP to create an array to accept store salary of 5 employee store and total salary 
+#include<stdio.h>
 #include<conio.h>
 void main()
 {

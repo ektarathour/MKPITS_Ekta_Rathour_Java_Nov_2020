@@ -1,3 +1,4 @@
+//Create a 2 d array of 2 row and 4 column accept value from the user and store in array
 #include<stdio.h>
 #include<conio.h>
 void main()

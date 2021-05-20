@@ -1,4 +1,4 @@
-//check digit is alphabates or digit or specil character
+//WAP to check digit is alphabates or digit or specil character
 #include<stdio.h>
 #include<conio.h>
 void main()
