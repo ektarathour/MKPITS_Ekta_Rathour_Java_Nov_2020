@@ -1565,6 +1565,22 @@ Write a program of Accessing Members of Outer Class within Inner Class
 ### Program 501) ExOfGarbageCollectorUsingTryCatch.java
 Write a program of garbage collection using try catch
 
+### Program 502) ExOfSynchroWithStaticMethodByAnonymousClass.java
+Write a program to synchronized with static method ny anonymous class
+
+### Program 503) ExOfSynchronizedBlockUsingCalculateClass.java
+Write a program of synchronized block using calculate class
+
+### Program 504) ExOfSynchronizationWithStaticMethod.java
+Write a program of sychronization  with static method
+
+### Program 505) ExOfInterThreadComUsingCustomerClass.java
+Write a program of inter thread communication using customer class
+
+### Program 506)ExOfDeadlock.java
+Write a program of dead lock condition
+
+
 
 
 

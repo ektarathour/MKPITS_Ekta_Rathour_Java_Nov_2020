@@ -1,5 +1,5 @@
 // WAP to synchronized block using anonymous method
-package com.mkpits.java.synchronization;
+package com.mkpits.java.thread;
 public class TestSynchronizedBlockAnonymousMethod {
     void printTable(int n){
         synchronized(this){//synchronized block

@@ -158,7 +158,7 @@ Write a program  to  hierarchical inheritance with interface
 ####Program 52)ImplimentRannableThread.java
 Write a program  to java thread to implimenting runnable interface
 
-#### Program 53) Initialize_Object_Through_Reference_Variable.java
+#### Program 53) InitializeObjectThroughReferenceVariable.java
 Write a program  object and class example : initialization through reference class student having rno name
 
 #### Program 54)IntDatatype.java
@@ -257,13 +257,13 @@ Write a program  to print 10 to 1 number using for loop
 #### Program 86)Print_10_To_1_UsingFor.java
 Write a program  to print 10 to 1 number using for loop
 
-#### Program 87)Print_10_To_1_UsingFor.java
+#### Program 87)Print10To1UsingFor.java
 Write a program  to print 10 to 1 number using for loop
 
-#### Program 88)Print_10_To_1_UsingFor.java
+#### Program 88)Print10To1UsingFor.java
 Write a program  to print 10 to 1 number using for loop
 
-#### Program 89)Print_1_to_UserInteredNo_W.java
+#### Program 89)Print1toUserInteredNo_W.java
 Write a program  to print 1 to  from given number by user  using  while loop
 
 #### Program 90)Primeno.java
@@ -287,13 +287,13 @@ Write a program to  time available processor
 #### Program 96)RealUseOfInstanceOf.java
 Write a program to real use of instanceOf keyword using interface
 
-#### Program 97)Sample_Print_HelloFromJava.java
+#### Program 97)SamplePrintHelloFromJava.java
 Write a program to  print hello from java
 
-#### Program 98)Shape_Hierarchical_Inheritance.java
+#### Program 98)ShapeHierarchicalInheritance.java
 Write a program to hierarchical inheritance with method overloading
 
-#### Program 99)Shape_Hierarchical_Inheritance_Methodoverloadning.java
+#### Program 99)Shape_HierarchicalInheritanceMethodoverloadning.java
 Write a program to hierarchical with method overloading
 
 #### Program 100)Simple.java
@@ -1510,6 +1510,27 @@ Write a program of Accessing Members of Outer Class within Inner Class
 
 ### Program 501) ExOfGarbageCollectorUsingTryCatch.java
 Write a program of garbage collection using try catch
+
+### Program 502) ExOfSynchroWithStaticMethodByAnonymousClass.java
+Write a program to synchronized with static method ny anonymous class
+
+### Program 503) ExOfSynchronizedBlockUsingCalculateClass.java
+Write a program of synchronized block using calculate class
+
+### Program 504) ExOfSynchronizationWithStaticMethod.java
+Write a program of sychronization  with static method
+
+### Program 505) ExOfInterThreadComUsingCustomerClass.java
+Write a program of inter thread communication using customer class
+
+### Program 506)ExOfDeadlock.java
+Write a program of dead lock condition
+
+
+
+
+
+
 
 
 
