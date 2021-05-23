@@ -1580,6 +1580,34 @@ Write a program of inter thread communication using customer class
 ### Program 506)ExOfDeadlock.java
 Write a program of dead lock condition
 
+### Program 507)Account.java
+Write a program of account class which is imported by another class
+
+### Program 508)TestBank.java
+Write a program of testbank class in which we import account class
+
+### Program 509)PackageAWhichImportByFullyQualifiedName.java
+Write a program of A program of package which is import in another class using fully qualified name
+
+### Program 510)PackageAWhichImportByPackageName.java
+Write a program of  of package that imported by another package
+
+### Program 511)PackageAWhichImportByPackageNameDotClassName.java
+Write a program of package imported  by another package using package name.class name
+
+### Program 512)PackageBInWhichImportByFullyQualifiedName.java
+Write a program of package in which  import another class using fully qualified name
+
+### Program 513)PackageBInWhichImportPackageByPackageName.java
+Write a program package import another package using package name
+
+
+
+
+
+
+
+
 
 
 
