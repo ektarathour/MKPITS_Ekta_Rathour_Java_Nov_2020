@@ -1601,6 +1601,45 @@ Write a program of package in which  import another class using fully qualified 
 ### Program 513)PackageBInWhichImportPackageByPackageName.java
 Write a program package import another package using package name
 
+### Program 514)ExOfArrayListBook.java
+Write a program of array list where we are adding books to list and printing all the books
+
+### Program 515)ExOfArrayListEmptyMethod.java
+Write a program of ArrayList using empty method
+
+### Program 516)ExOfArrayListRetainAllMethod.java
+Write a program of ArrayList using retain method
+
+### Program 517)ExOfArrayListSerializationAndDeserialization.java
+Write a program of ArrayList serialization and deserialization
+
+### Program 518)ExOfDifferentWayToAddElement.java
+Write a program  of ArrayList different way to add element in list
+
+### Program 519)ExOfDifferentWayToRemoveElement.java
+Write a program of ArrayList different way to remove element from the list
+
+### Program 520)ExOfGenericArrayListForFruits.java
+Write a program of generic ArrayList for fruits
+
+### Program 521)ExOfGetAndSetArrayList .java
+Write a program of ArrayList Using get method return the element at the specific index, whereas the set method changes the element
+
+### Program 522)ExOfIterationAllWayTogether.java
+Write a program of ArrayList iteration all way together
+
+### Program 523)ExOfIteratorArrayListUsingForEachLoop.java
+Write a program of arrayList using for each loop using collection of fruits name
+
+### Program 524)ExOfIteratorArrayListUsingWhileLoop.java
+Write a program of arrayList using while loop using collection of fruits name
+
+### Program 525)ExOfShortArrayListUsingForEachLoop.java
+Write a program of sort the array using for each loop
+
+### Program 526)ExOfStoringStudentClassObjectInArrayList.java
+Write a program of array list where we are storing student class object in an array list
+
 
 
 
