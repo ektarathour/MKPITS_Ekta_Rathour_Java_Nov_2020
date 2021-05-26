@@ -1,5 +1,5 @@
 //A program of array list where we are adding books to list and printing all the books
-package com.mkpits.java.arraylist;
+package com.mkpits.java.collectionclasses;
 
 import java.util.ArrayList;
 import java.util.List;

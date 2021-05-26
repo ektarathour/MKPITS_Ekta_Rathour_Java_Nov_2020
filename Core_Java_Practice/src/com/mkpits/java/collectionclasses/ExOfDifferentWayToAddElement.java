@@ -1,5 +1,5 @@
 //A program of ArrayList different way to add element in list
-package com.mkpits.java.arraylist;
+package com.mkpits.java.collectionclasses;
 import java.util.ArrayList;
 
 public class ExOfDifferentWayToAddElement {

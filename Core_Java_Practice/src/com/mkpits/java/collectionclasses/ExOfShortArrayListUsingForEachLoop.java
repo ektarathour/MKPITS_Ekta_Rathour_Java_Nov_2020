@@ -1,5 +1,5 @@
 //A program of sort the array using for each loop
-package com.mkpits.java.arraylist;
+package com.mkpits.java.collectionclasses;
 
 import java.util.ArrayList;
 import java.util.Collections;

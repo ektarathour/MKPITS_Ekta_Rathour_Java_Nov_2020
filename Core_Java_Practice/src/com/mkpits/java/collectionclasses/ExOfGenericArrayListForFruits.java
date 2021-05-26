@@ -1,5 +1,5 @@
 //A program of generic ArrayList for fruits
-package com.mkpits.java.arraylist;
+package com.mkpits.java.collectionclasses;
 import java.util.ArrayList;
 
 public class ExOfGenericArrayListForFruits {

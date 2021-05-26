@@ -1586,12 +1586,20 @@ Write a program of sort the array using for each loop
 ### Program 526)ExOfStoringStudentClassObjectInArrayList.java
 Write a program of array list where we are storing student class object in an array list
 
+### Program 527)ExOfTraversingListThroughIteratorStudent.java
+Write a program of traversing list through iterator using student name collection 
 
+### Program 528)ExOfIteratorOfArrayListUsingForEachLoopStudent.java
+Write a program on iterating arraylist usimg for each loop using student name collection
 
+### Program 529)ExOfCollectionOfStudentUsingArrayListAcceptFromUser.java
+Write a program of accepting name of student from the user
 
+### Program 530)ExOfCollectionOfStudentUsingArrayList.java
+Write a program of create collection of 5 student using arraylist class 
 
-
-
+### Program 531)ExOfCollectionOfStudentClassUsingAWT.java
+Write a program of arraylist collection of student name using awt 
 
 
 

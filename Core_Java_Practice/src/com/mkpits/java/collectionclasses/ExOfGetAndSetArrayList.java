@@ -1,6 +1,6 @@
 //A program of ArrayList Using get method return the element at the specific index, whereas the set
 // method changes the element
-package com.mkpits.java.arraylist;
+package com.mkpits.java.collectionclasses;
 
 import java.util.ArrayList;
 

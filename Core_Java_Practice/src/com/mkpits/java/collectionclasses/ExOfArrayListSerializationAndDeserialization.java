@@ -1,5 +1,5 @@
 //A program of ArrayList serialization and deserialization
-package com.mkpits.java.arraylist;
+package com.mkpits.java.collectionclasses;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

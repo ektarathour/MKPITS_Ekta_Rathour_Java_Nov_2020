@@ -1,5 +1,5 @@
 //A program of ArrayList using empty method
-package com.mkpits.java.arraylist;
+package com.mkpits.java.collectionclasses;
 
 import java.util.ArrayList;
 

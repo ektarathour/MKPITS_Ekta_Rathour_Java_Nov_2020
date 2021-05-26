@@ -1,5 +1,5 @@
 //A program of ArrayList iteration all way together
-package com.mkpits.java.arraylist;
+package com.mkpits.java.collectionclasses;
 
 import java.util.ArrayList;
 import java.util.Iterator;

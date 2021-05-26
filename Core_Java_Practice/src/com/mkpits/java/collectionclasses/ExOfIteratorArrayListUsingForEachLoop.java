@@ -1,5 +1,5 @@
 //A program of arrayList using for each loop using collection of fruits name
-package com.mkpits.java.arraylist;
+package com.mkpits.java.collectionclasses;
 
 import java.util.ArrayList;
 

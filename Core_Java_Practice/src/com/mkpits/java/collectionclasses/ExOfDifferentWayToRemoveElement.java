@@ -1,5 +1,5 @@
 //A program of ArrayList different way to remove element from the list
-package com.mkpits.java.arraylist;
+package com.mkpits.java.collectionclasses;
 
 import java.util.ArrayList;
 

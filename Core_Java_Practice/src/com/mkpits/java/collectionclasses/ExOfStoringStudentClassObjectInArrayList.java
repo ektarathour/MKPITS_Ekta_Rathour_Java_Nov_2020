@@ -1,5 +1,5 @@
 //A program of array list where we are storing student class object in an array list
-package com.mkpits.java.arraylist;
+package com.mkpits.java.collectionclasses;
 
 import java.util.ArrayList;
 import java.util.Iterator;
