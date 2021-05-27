@@ -1601,6 +1601,32 @@ Write a program of create collection of 5 student using arraylist class
 ### Program 531)ExOfCollectionOfStudentClassUsingAWT.java
 Write a program of arraylist collection of student name using awt 
 
+### Program 532)SimpleExOfLinkedList.java
+Write a program of simple linkedList
+
+### Program 533)ExOfLinkedListReverseListOfElement.java
+Write a program of linked list reverse a list of element
+
+### Program 534)ExOfLinkedListBook.java
+Write a program  of linked list collection of book class
+
+### Program 535)ExOfDifferentWayToAddElementInLinkedList.java
+Write a program  of linked list to add element from at particular position (addLast,addFirst etc method)
+
+### Program 536)ExOfDifferentWayToRemoveElementFromLinkedList.java
+Write a program  of removing element from linked list (remove,removeAll,removeFirst etc method)
+
+### Program 537)ExOfLinkedHasSetIgnoringDuplicateElements.java
+Write a program of linkedHasSet ignoring duplicates element 
+
+### Program 538)ExOfLinkedHasSetClass.java
+Write a program  of linkedHasSet class and element iterate in insertion order
+
+### Program 539)ExOfLinkedHashSetBook .java
+Write a program of linked list  list collection of book class
+
+### Program 540)ExOfLinkedListBook.java
+Write a program  of  use of arraylist and linkedlist both
 
 
 
