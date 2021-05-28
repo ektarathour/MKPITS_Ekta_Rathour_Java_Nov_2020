@@ -1628,7 +1628,14 @@ Write a program of linked list  list collection of book class
 ### Program 540)ExOfLinkedListBook.java
 Write a program  of  use of arraylist and linkedlist both
 
+### Program 541)ExOfHashSetIgnoringDuplicateElements.java
+Write a program  of HasSet ignoring duplicates element
 
+### Program 542)ExOfHashSetElementIterateInUnordered.java
+Write a program  of hashSet  where  element iterate in unordered
+
+### Program 543)ExOfDifferentWayToRemoveElementFromHashSet.java
+Write a program  of Different  way to remove element from hashSet
 
 
 
