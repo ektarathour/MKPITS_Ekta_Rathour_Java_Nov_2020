@@ -1629,7 +1629,7 @@ Write a program of linked list  list collection of book class
 Write a program  of  use of arraylist and linkedlist both
 
 ### Program 541)ExOfHashSetIgnoringDuplicateElements.java
-Write a program  of HasSet ignoring duplicates element
+Write a program  oHasSet ignoring duplicates element
 
 ### Program 542)ExOfHashSetElementIterateInUnordered.java
 Write a program  of hashSet  where  element iterate in unordered
@@ -1637,10 +1637,44 @@ Write a program  of hashSet  where  element iterate in unordered
 ### Program 543)ExOfDifferentWayToRemoveElementFromHashSet.java
 Write a program  of Different  way to remove element from hashSet
 
+### Program 544)ExOfListWhereUsingArrayListClassImplementation.java
+Write a program of list where we are using arraylist class as the implementation
 
+### Program 545)ExOfHashSetFromAnotherCollection.java
+Write a program of hashset from another collection like arraylist
 
+### Program 546)ExOfHashSetClassBook.java
+Write a program of hashset collection of book class 
 
+### Program 547)ExOfGetAndSetInList.java
+Write a program of get and set method of list
 
+### Program 548)ExOfConvertingListToArray.java
+Write a program of converting list to array
+
+### Program 549)ExOfConvertingArrayToList.java
+Write a program of convert array element into list
+
+### Program 550)ExOfListIteratorInterface.java
+Write a program of  ListIterator interface
+
+### Program 551)ExOfSortList.java
+Write a program of sort the list using collections.sort method
+
+### Program 552)ExOfListBook.java
+Write a program of list where we are adding the books
+
+### Program 553)ExOfArrayListSetAndGetByUser.java
+Write a program of set and get method in arraylist by user
+
+### Program 554)ExOfArrayListSetAndGetMethodAwtStudentClass.java
+Write a program of arraylist get and set method  collection of student class using awt
+
+### Program 555)ExOfArrayListSetAndGetMethodUsingSwingStudentClass.java
+Write a program of arraylist get and set method  collection of student class using swing
+
+### Program 556)ExOfSortArrayListUsingForLoop.java
+Write a program of  of sort arrayList element using for loop
 
 
 

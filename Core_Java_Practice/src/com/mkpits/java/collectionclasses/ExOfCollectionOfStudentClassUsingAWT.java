@@ -47,6 +47,7 @@ public class ExOfCollectionOfStudentClassUsingAWT extends Frame {
         ta = new TextArea("student list");
         ta.setBounds(100, 200, 300, 150);
         add(ta);
+
         setLayout(null);
         setSize(500, 500);
         setVisible(true);
