@@ -1730,20 +1730,32 @@ Write a program of arraylist get and set method  collection of student class usi
 ### Program 556)ExOfSortArrayListUsingForLoop.java
 Write a program of  of sort arrayList element using for loop
 
+### Program 557)ExOfTraversingArrayListUsingForLoop.java
+Write a program of traversing arraylist using for loop
 
+### Program 558)ExOfArrayListSortingInSwing.java
+Write a program of  arraylist collection of student name sorting using swing
 
+### Program 559)ExOfTraversingArrayListUsingForEachLoop.java
+Write a program of traversing arraylist using foreach loop
 
+### Program 560)ExOfArrayListTraversingThroughListIteratorUsingSwing.java
+Write a program of arraylist traversing through list iterator student name using swing
 
+### Program 561)ExOfTreeSetUsingBookImplementComparable.java
+Write a program of TreeSet where we are adding books to set and printing all the books
 
+### Program 562)ExOfTreeSetTraversingElementInDesendingOrder.java
+Write a program of  TreeSet traversing element in descending order 
 
+### Program 563)ExOfSimpleJavaTreeSet.java
+Write a program of Simple java TreeSet
 
+### Program 564)ExOfRetrieveAndRemoveHighestAndLowestValue.java
+Write a program of retrieve and remove the highest and lowest value
 
-
-
-
-
-
-
+### Program 565)ExOfNavigableSetOperation.java
+Write a program of various navigable operations
 
 
 
