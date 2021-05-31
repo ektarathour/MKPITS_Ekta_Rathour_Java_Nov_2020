@@ -1703,6 +1703,56 @@ Write a program of retrieve and remove the highest and lowest value
 ### Program 565)ExOfNavigableSetOperation.java
 Write a program of various navigable operations
 
+### Program 566)ExOfQueueOfferFirstAndPollLast.java
+Write a program of offerFirst() and pollLast() method
+
+### Program 567)ExOfPriorityQueueDeclaration.java
+Write a program of PriorityQueue class declaration
+
+### Program 568)ExOfPriorityQueueBook.java
+Write a program of Java PriorityQueue Book
+
+### Program 569)ExOfMapNonGeneric .java
+Write a program of Map Non-Generic (Old Style)
+
+### Program 570)ExOfMapGeneric.java
+Write a program of  Map Generic (new Style)
+
+### Program 571)ExOfMapComparingByValueInDescendingOrder.java
+Write a program of Map comparingByValue in Descending Order
+
+### Program 572)ExOfMapComparingByValue.java
+Write a program of Map comparingByValue
+
+### Program 573)ExOfMapComparingByKeyMethod.java
+Write a program of Map comparingByKey method
+
+### Program 574)ExOfMapComparingByKeyInDescendingOrder.java
+Write a program of Map comparingByKey in Descending Order
+
+### Program 575)ExOfHashMapUsingBookClass.java
+Write a program of HashMap  Book
+
+## Program 576)ExOfHashMapToStoreKeyAndValuePair.java
+Write a program of HashMap to store key and value pair
+
+## Program 577)ExOfHashMapDuplicatesKeyNotSupport.java
+Write a program of No duplicates key on hashmap
+
+## Program 578)ExOfHashMapDifferentWayToReplaceElement .java
+Write a program of HashMap different way to replace elements
+
+## Program 579)ExOfHashMapDifferentWayToRemoveElement.java
+Write a program of HashMap different way to remove elements
+
+## Program 580)ExOfHashMapDifferentWayToInsertElement.java
+Write a program of HashMap different way to add elements
+
+## Program 581)ExOfDequeBook.java
+Write a program of deque With Book class
+
+## Program 582)ExOfArrayDeque.java
+Write a program of of simple deque
 
 
 
