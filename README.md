@@ -1806,19 +1806,46 @@ Write a program of HashMap different way to add elements
 Write a program of deque With Book class
 
 ## Program 582)ExOfArrayDeque.java
-Write a program of of simple deque
+Write a program of simple deque
 
+## Program 583)ExOfUseOfJavaComparable.java
+Write a program of comparable interface that sort the list element the basis of age
 
+## Program 584)ExOfUseOfJavaComparator.java
+Write a program of comparator interface where we are sorting the element of list using differen comparator
 
+## Program 585)ExOfRemoveElementFromHashTable.java
+Write a program of Remove Element From HashTable
 
+## Program 586)ExOfHashTableBookExample.java
+Write a program of key value  Collection of Book using HashTable
 
+## Program 587)ExOfHashTablePutIfAbsentMethod.java
+Write a program of HashTable putIfAbsent method
 
+## Program 588)ExOfHashTableUseOfGetOrDefaultMethod.java
+Write a program of Hash Table Using getorDefault method
 
+## Program 589)ExOfHashTable.java
+Write a program of  hashtable
 
+## Program 590)ExOfLinkedHashMap.java
+Write a program of Linked hash map
 
+## Program 591)ExOfLinkedHashMapBook.java
+Write a program of collection of book using linked hash map 
 
+## Program 592)ExOfLinkedHashMapRemoveElement.java
+Write a program of Linked hash map  using remove method
 
+## Program 593)ExOfLinkedHashMapUsingKeyValuePair.java
+Write a program Linked hash map using key value pair
 
+## Program 594)ExOfTreeMap.java
+Write a program of simple tree map
+
+## Program 595)ExOfTreeMapRemoveElement.java
+Write a program of remove element using tree map 
 
 
 
