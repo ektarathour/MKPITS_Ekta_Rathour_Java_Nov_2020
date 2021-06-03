@@ -1787,69 +1787,74 @@ Write a program of Map comparingByKey in Descending Order
 ### Program 575)ExOfHashMapUsingBookClass.java
 Write a program of HashMap  Book
 
-## Program 576)ExOfHashMapToStoreKeyAndValuePair.java
+### Program 576)ExOfHashMapToStoreKeyAndValuePair.java
 Write a program of HashMap to store key and value pair
 
-## Program 577)ExOfHashMapDuplicatesKeyNotSupport.java
+### Program 577)ExOfHashMapDuplicatesKeyNotSupport.java
 Write a program of No duplicates key on hashmap
 
-## Program 578)ExOfHashMapDifferentWayToReplaceElement .java
+### Program 578)ExOfHashMapDifferentWayToReplaceElement .java
 Write a program of HashMap different way to replace elements
 
-## Program 579)ExOfHashMapDifferentWayToRemoveElement.java
+### Program 579)ExOfHashMapDifferentWayToRemoveElement.java
 Write a program of HashMap different way to remove elements
 
-## Program 580)ExOfHashMapDifferentWayToInsertElement.java
+### Program 580)ExOfHashMapDifferentWayToInsertElement.java
 Write a program of HashMap different way to add elements
 
-## Program 581)ExOfDequeBook.java
+### Program 581)ExOfDequeBook.java
 Write a program of deque With Book class
 
-## Program 582)ExOfArrayDeque.java
+### Program 582)ExOfArrayDeque.java
 Write a program of simple deque
 
-## Program 583)ExOfUseOfJavaComparable.java
+### Program 583)ExOfUseOfJavaComparable.java
 Write a program of comparable interface that sort the list element the basis of age
 
-## Program 584)ExOfUseOfJavaComparator.java
+### Program 584)ExOfUseOfJavaComparator.java
 Write a program of comparator interface where we are sorting the element of list using differen comparator
 
-## Program 585)ExOfRemoveElementFromHashTable.java
+### Program 585)ExOfRemoveElementFromHashTable.java
 Write a program of Remove Element From HashTable
 
-## Program 586)ExOfHashTableBookExample.java
+### Program 586)ExOfHashTableBookExample.java
 Write a program of key value  Collection of Book using HashTable
 
-## Program 587)ExOfHashTablePutIfAbsentMethod.java
+### Program 587)ExOfHashTablePutIfAbsentMethod.java
 Write a program of HashTable putIfAbsent method
 
-## Program 588)ExOfHashTableUseOfGetOrDefaultMethod.java
+### Program 588)ExOfHashTableUseOfGetOrDefaultMethod.java
 Write a program of Hash Table Using getorDefault method
 
-## Program 589)ExOfHashTable.java
+### Program 589)ExOfHashTable.java
 Write a program of  hashtable
 
-## Program 590)ExOfLinkedHashMap.java
+### Program 590)ExOfLinkedHashMap.java
 Write a program of Linked hash map
 
-## Program 591)ExOfLinkedHashMapBook.java
+### Program 591)ExOfLinkedHashMapBook.java
 Write a program of collection of book using linked hash map 
 
-## Program 592)ExOfLinkedHashMapRemoveElement.java
+### Program 592)ExOfLinkedHashMapRemoveElement.java
 Write a program of Linked hash map  using remove method
 
-## Program 593)ExOfLinkedHashMapUsingKeyValuePair.java
+### Program 593)ExOfLinkedHashMapUsingKeyValuePair.java
 Write a program Linked hash map using key value pair
 
-## Program 594)ExOfTreeMap.java
+### Program 594)ExOfTreeMap.java
 Write a program of simple tree map
 
-## Program 595)ExOfTreeMapRemoveElement.java
+### Program 595)ExOfTreeMapRemoveElement.java
 Write a program of remove element using tree map 
 
+### Program 596)ExOfTreeMapNavigableMap.java
+Write a program of tree map navigable map method
 
+### Program 597)ExOfTreeMapSortedMap.java
+Write a program of Tree map sorted map method
 
-
+### Program 598)ExOfTreeMapBook.java
+Write a program of collection of book class using tree map
 
  
 
