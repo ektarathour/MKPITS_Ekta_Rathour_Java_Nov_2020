@@ -12,7 +12,7 @@ public class JdbcConnection {
             System.out.println("connect");
             con.close();
         }
-        catch(Exception e){ System.out.println(e);}
+        catch(Exception e){ System.out.println(e);} 
     }
 
 }
