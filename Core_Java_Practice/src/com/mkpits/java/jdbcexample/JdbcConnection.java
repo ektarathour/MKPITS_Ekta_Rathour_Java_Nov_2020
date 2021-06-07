@@ -1,18 +1,19 @@
-package com.mkpits.java.jdbcexamples;
-import java.sql.Connection;
+package com.mkpits.java.jdbcexample;
+import java.sql.*;
+
 import java.sql.DriverManager;
 
 public class JdbcConnection {
     public static void main(String[] args) {
         try{
             Class.forName("com.mysql.jdbc.Driver");
-            Connection con=DriverManager.getConnection
+            Connection con= DriverManager.getConnection
                     ("jdbc:mysql://localhost:3306/Sampledb","root","");
 
             System.out.println("connect");
             con.close();
         }
-        catch(Exception ee){ System.out.println(ee.toString());}
+        catch(Exception e){ System.out.println(e.toString());}
     }
 
 }
