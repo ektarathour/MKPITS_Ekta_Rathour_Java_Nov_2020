@@ -1,5 +1,5 @@
 package com.mkpits.java.jdbcexample;
-import java.sql.*;
+import java.sql.Connection;
 
 import java.sql.DriverManager;
 
@@ -8,12 +8,12 @@ public class JdbcConnection {
         try{
             Class.forName("com.mysql.jdbc.Driver");
             Connection con= DriverManager.getConnection
-                    ("jdbc:mysql://localhost:3306/Sampledb","root","");
+                    ("jdbc:mysql://localhost:3306/sampledb","root","");
 
             System.out.println("connect");
             con.close();
         }
-        catch(Exception e){ System.out.println(e.toString());}
+        catch(Exception e){ System.out.println(e);}
     }
 
 }
