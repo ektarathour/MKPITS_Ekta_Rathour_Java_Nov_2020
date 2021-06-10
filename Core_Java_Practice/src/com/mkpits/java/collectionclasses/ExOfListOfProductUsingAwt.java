@@ -5,6 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
+import java.util.Collections;
 
 class Product{
   int  pid;
@@ -22,7 +23,7 @@ public class ExOfListOfProductUsingAwt extends Frame {
     Label l1, l2, l3, l4;
     TextField t1, t2, t3, t4;
     TextArea ta;
-    Button b1, b2;
+    Button b1, b2,b3,b4;
     ArrayList<String> product = new ArrayList<String>();
 
     ExOfListOfProductUsingAwt() {
@@ -76,12 +77,37 @@ for(String str:product){
             }
         });
         add(b2);
+        b3 = new Button("Sort Product:");
+        b3.setBounds(290, 250, 100, 30);
+        b3.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                Collections.sort(product);
+                StringBuilder sb=new StringBuilder();
+                for(String str:product){
+                    sb.append(str);
+                    ta.setText(sb.toString());
+                }
+            }
+        });
+        add(b3);
+        b4 = new Button("Remove Product:");
+        b4.setBounds(400, 250, 100, 30);
+        b4.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                product.removeAll(product);
+                ta.setText("product detail remove:");
+            }
+        });
+        add(b4);
+
         ta = new TextArea("Product List:");
         ta.setBounds(50, 300, 200, 200);
         add(ta);
 
         setLayout(null);
-        setSize(500, 500);
+        setSize(600, 600);
         setVisible(true);
     }
 

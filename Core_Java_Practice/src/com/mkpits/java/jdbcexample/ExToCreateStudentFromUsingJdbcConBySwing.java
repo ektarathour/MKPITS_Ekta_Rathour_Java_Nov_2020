@@ -3,14 +3,13 @@
 package com.mkpits.java.jdbcexample;
 
 import javax.swing.*;
-
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
-
-import static com.oracle.jrockit.jfr.ContentType.Address;
-import static sun.plugin.javascript.navig.JSType.Form;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.Statement;
 
 public class ExToCreateStudentFromUsingJdbcConBySwing extends JFrame{
     JRadioButton rb1;
@@ -28,7 +27,7 @@ public class ExToCreateStudentFromUsingJdbcConBySwing extends JFrame{
         JTextField t1 = new JTextField();
         t1.setBounds(260, 80, 240, 25);
         add(t1);
-        JLabel l2 = new JLabel("Address");
+        JLabel l2 = new JLabel("Password");
         l2.setBounds(10, 120, 240, 25);
         add(l2);
         JTextField t2 = new JTextField();
@@ -47,7 +46,7 @@ public class ExToCreateStudentFromUsingJdbcConBySwing extends JFrame{
         bg = new ButtonGroup();
         bg.add(rb1);
         bg.add(rb2);
-        JLabel lc = new JLabel("Hobby");
+        JLabel lc = new JLabel("City");
         lc.setBounds(10, 200, 240, 25);
         add(lc);
         hb1 = new JCheckBox("Music");
@@ -76,10 +75,12 @@ public class ExToCreateStudentFromUsingJdbcConBySwing extends JFrame{
                 StudentClassForStudentForm student = new StudentClassForStudentForm();
                 student.setStudentName(t1.getText());
                 student.setAddress(t2.getText());
-                String g = null;
+                String sn = t1.getText();
+                String add = t2.getText();
+                String g =  null;
                 if (rb1.isSelected())
                     student.setGender("male");
-                    else if (rb2.isSelected())
+                else if (rb2.isSelected())
                     student.setGender("female");
                 String hobby = null;
                 if (hb1.isSelected())
@@ -88,15 +89,35 @@ public class ExToCreateStudentFromUsingJdbcConBySwing extends JFrame{
                 if (hb2.isSelected())
                     hobby = hobby + "Reading";
 
-                student.setHobby(hobby);
-                String course1 = course.getSelectedItem().toString();
-                student.setCourse(course1);
-                String result = student.saveregister();
-                l21.setText(result);
-                t1.setText("");
-                t2.setText("");
+                Connection con;
+                Statement st = null;
+                try {
+                    Class.forName("com.mysql.jdbc.Driver");
+                    con = DriverManager.getConnection("jdbc:mysql://localhost:3306/Sampledb", "root", "");
+
+
+                    st = con.createStatement();
+
+
+                    String sql = "insert into student(studentname,address,gender,hobby,course) values('"+sn+"','"+add+"','"+g+"',' "+hobby+"','"+course+"')";
+                    st.executeUpdate(sql);
+                    l21.setText("registered successfully");
+                    t1.setText("");
+                    t2.setText("");
+                    st.close();
+                    con.close();
+                } catch (Exception ee) {
+                    student.setHobby(hobby);
+                    String course1 = course.getSelectedItem().toString();
+                    student.setCourse(course1);
+                    String result = student.saveregister();
+                    l21.setText(result);
+                    t1.setText("");
+                    t2.setText("");
+                }
             }
         });
+
         add(b1);
         setSize(700, 500);
         setTitle("Student Form");
