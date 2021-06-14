@@ -1892,6 +1892,23 @@ Write a program of  login form and check the credentials from the register table
 ### Program 610)ExOfInsetUpdateDeleteAndSearchRecordInSupplierTableUsingSwing.java
 Write a program of a swing form to insert ,update and delete and search records into supplier table.
 
+### Program 611)ExOfHtmtlHeadingTag.java
+Write a program of  html headding 
+
+### Program 612)ExOfHtmtParagraphTag.java
+Write a program of html paragraph
+
+### Program 613)ExOfHtmtImages.java
+Write a program of  of html image
+
+### Program 614)ExOfHtmlLink.java
+Write a program of html link
+
+### Program 615)ExOfBrTag.java
+Write a program of html line break
+
+
+
 
 
 
