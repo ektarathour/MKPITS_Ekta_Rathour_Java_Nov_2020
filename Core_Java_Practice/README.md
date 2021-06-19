@@ -1853,5 +1853,16 @@ Write a program of html link
 ### Program 615)ExOfBrTag.java
 Write a program of html line break
 
+### Program 616)ExOfHtmlCheckbox.java
+Write a program of html checkbox
+
+### Program 617)ExOfHtmlFromInputEleTextForFnameLname.java
+Write a program of html form for input element for text name
+
+### Program 618)ExOfHtmlRadioButton.java
+Write a program of  html radio button
+
+### Program 619)ExOfSelectElement.java
+Write a program of  css select element
 
 
