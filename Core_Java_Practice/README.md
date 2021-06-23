@@ -1865,4 +1865,33 @@ Write a program of  html radio button
 ### Program 619)ExOfSelectElement.java
 Write a program of  css select element
 
+### Program 620)ExOfHtmlAbbrTag.html
+Write a program of html abbreviations tag
+
+### Program 621)ExOfHtmlBackgroundColor.html
+Write a program of html background color 
+
+### Program 622)ExOfHtmlBoldTag.html
+Write a program of  html bold tag
+
+### Program 623)ExOfHtmlDelTag.html
+Write a program of  html delete tag
+
+### Program 624)ExOfHtmlhighlightedTag.html
+Write a program of  html mark tag for highlighted text
+
+### Program 625)ExOfHtmlHorizontalRuleTage.html
+Write a program of  html hr tag
+
+### Program 626)ExOfHtmlInsTag.html
+Write a program of html insert text tag
+
+### Program 627)ExOfHtmlItalicTag.html
+Write a program of  html italic tag
+
+### Program 628)ExOfHtmlStyleAttribute.html
+Write a program of  html style tag
+
+### Program 629)ExOfHtmlSubScriptAndSuperScriptTag.html
+Write a program of  html subscript and superscript tag
 
