@@ -1838,31 +1838,31 @@ Write a program of  login form and check the credentials from the register table
 ### Program 610)ExOfInsetUpdateDeleteAndSearchRecordInSupplierTableUsingSwing.java
 Write a program of a swing form to insert ,update and delete and search records into supplier table
 
-### Program 611)ExOfHtmtlHeadingTag.java
+### Program 611)ExOfHtmtlHeadingTag.html
 Write a program of  html headding 
 
-### Program 612)ExOfHtmtParagraphTag.java
+### Program 612)ExOfHtmtParagraphTag.html
 Write a program of html paragraph
 
-### Program 613)ExOfHtmtImages.java
+### Program 613)ExOfHtmtImages.html
 Write a program of  of html image
 
-### Program 614)ExOfHtmlLink.java
+### Program 614)ExOfHtmlLink.html
 Write a program of html link
 
-### Program 615)ExOfBrTag.java
+### Program 615)ExOfBrTag.html
 Write a program of html line break
 
-### Program 616)ExOfHtmlCheckbox.java
+### Program 616)ExOfHtmlCheckbox.html
 Write a program of html checkbox
 
-### Program 617)ExOfHtmlFromInputEleTextForFnameLname.java
+### Program 617)ExOfHtmlFromInputEleTextForFnameLname.html
 Write a program of html form for input element for text name
 
-### Program 618)ExOfHtmlRadioButton.java
+### Program 618)ExOfHtmlRadioButton.html
 Write a program of  html radio button
 
-### Program 619)ExOfSelectElement.java
+### Program 619)ExOfSelectElement.html
 Write a program of  css select element
 
 ### Program 620)ExOfHtmlAbbrTag.html
