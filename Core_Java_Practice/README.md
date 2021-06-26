@@ -1895,3 +1895,14 @@ Write a program of  html style tag
 ### Program 629)ExOfHtmlSubScriptAndSuperScriptTag.html
 Write a program of  html subscript and superscript tag
 
+### Program 630)ExOfJSDisplayDateAndTime.html
+Write A program of javascript display date and time
+
+### Program 631)ExOfjsChangeHtmlContent.html
+Write A program of javascript  change text content
+
+### Program 632)ExOfjsChangeValueOfSrc.html
+Write A program of javascript  change attribute of an image
+
+### Program 633)ExOfjsStatement.html
+Write A program of javascript  Statement
