@@ -1906,3 +1906,24 @@ Write A program of javascript  change attribute of an image
 
 ### Program 633)ExOfjsStatement.html
 Write A program of javascript  Statement
+
+### Program 634)ExOfAcceptMarksAndThenDisplayTotalPercentageAndGrade.html
+Write A program of create a form to accept 3 subject marks and then display total ,percentage and grade
+
+### Program 635)ExOfAdditionOfTwoNoFromUserInJavaScript.html
+Write A program of create a js function to accept 2 no. from the user and then display the addition
+
+### Program 636)ExOfAdditionOfTwoNoInJavaScript.html
+Write A program of wap to print addition of 2 no
+
+### Program 637)ExOfCreateHtmlFormToAcceptTwoNoAddUsingGetElementByIdFunction.html
+Write A program of create a html form to accept 2 no. and then add using getElementbyid function
+
+### Program 638)ExOfCreatingFuctionToAddTwoNoInJavaScript.html
+Write A program of create a js function to add 2 no.
+
+### Program 639)ExOfPrintHelloInJavaScript.html
+Write A program to print hello in javascript
+
+
+
