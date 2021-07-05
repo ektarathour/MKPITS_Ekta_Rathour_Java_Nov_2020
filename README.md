@@ -1979,6 +1979,16 @@ Write A program of create a js function to add 2 no.
 ### Program 639)ExOfPrintHelloInJavaScript.html
 Write A program to print hello in javascript
 
+### Program 640)ExOfCalculateTwoNoUsingJsInSwitchStatement.html
+Write A program to calculate 2 no using switch statement
+
+### Program 641)ExOfFuctionReturningValueInJavascript.html
+Write A program to example of function returning a value
+
+### Program 642)ExOfLoginFieldInJavascript.html
+Write A program to create a login function and if user enter username as admin and password as admin then 
+display "login successfull " other wise display "invalid username or password"
+and display message "enter name " if user leaves the username text box blank
 
 
 
