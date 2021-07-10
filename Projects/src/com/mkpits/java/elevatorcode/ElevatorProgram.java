@@ -37,7 +37,7 @@ public class ElevatorProgram extends JLabel {
 
     public static JLabel j1;
     public static Timer timer;
-    public static JButton b6, b2, b5, b4, b10, b1, b3, b11,b9;
+    public static JButton b6, b2, b5, b4, b10, b1, b3, b11,b9,b12;
     public static int tc;
 
     private class TimerListener implements ActionListener {
@@ -167,6 +167,7 @@ public class ElevatorProgram extends JLabel {
         jp212.setLayout(null);
 
         final ElevatorProgram bl = new ElevatorProgram("UP");
+
 
         bl.setBounds(70, 120, 150, 100);
         bl.setBackground(Color.black);
